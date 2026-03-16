@@ -24,15 +24,7 @@ I build modern, fast, and scalable web applications.
 <li>🧠 Always learning new technologies</li>
 <li>🎯 Goal: Become a top software engineer</li>
 </ul>
-<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-</p>
 <h2>🚀 Projects</h2>
 
 <ul>
